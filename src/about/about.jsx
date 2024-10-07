@@ -5,7 +5,7 @@ const about = () => {
   return (
     <div>
         <div class="about-container">
-        <h1>About Us.</h1>
+        <h1>About Us</h1>
         <p>Welcome to our book corner. We are passionate about sharing knowledge through amazing books.</p>
         
         <div class="photos">
