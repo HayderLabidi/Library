@@ -19,7 +19,7 @@ const home = () => {
                                 </div>
                                 <div class="col-xl-6 col-lg-6 col-md-6 col-12 col-sm-6">
                                     <div class="slider-single-img slider-animated-1">
-                                        <img class="animated" src="assets/img/slider/single-slide-1.webp" alt="" />
+                                        <img class="animated" src="assets/img/slider/Bibliophile-rafiki.png" alt="" />
                                     </div>
                                 </div>
                             </div>
@@ -39,7 +39,7 @@ const home = () => {
                                 </div>
                                 <div class="col-xl-6 col-lg-6 col-md-6 col-12 col-sm-6">
                                     <div class="slider-single-img slider-animated-1">
-                                        <img class="animated" src="assets/img/slider/single-slide-hm1-2.webp" alt="" />
+                                        <img class="animated" src="assets/img/slider/Book lover-bro.png" alt="" />
                                     </div>
                                 </div>
                             </div>
