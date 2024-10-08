@@ -48,6 +48,9 @@
     max-width: 1200px;
   }
 }
+.row-nav {
+  height: 5vw;
+}
 .row {
   margin-right: calc(var(--bs-gutter-x) * -.6);
   margin-left: calc(var(--bs-gutter-x) * -.6);
@@ -2076,6 +2079,7 @@ a.default-btn {
   width: 100%;
   z-index: 999;
   left: 0;
+  height: 5vw;
   -webkit-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
 }
@@ -2125,7 +2129,7 @@ a.default-btn {
   }
 }
 .logo {
-  margin-top: 15px;
+  margin-top: -20px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .logo {
@@ -2134,7 +2138,7 @@ a.default-btn {
 }
 @media only screen and (max-width: 767px) {
   .logo {
-    margin-top: 0px;
+    margin-top: -20px;
   }
 }
 .logo.logo-hm5 {
@@ -2162,7 +2166,9 @@ a.default-btn {
 .stick .logo-hm5 a.sticky-none {
   display: none;
 }
-
+.main-menu {
+  height: 1vw;
+}
 .main-menu nav ul {
   display: block;
   text-align: center;
@@ -2224,12 +2230,7 @@ a.default-btn {
   width: 7px;
   z-index: 999;
 }
-.main-menu nav ul li ul.submenu li:hover .a::before {
-  opacity: 1;
-}
-.main-menu nav ul li ul.submenu li:hover a {
-  padding-left: 12px;
-}
+
 .main-menu nav ul li ul.mega-menu {
   background-color: #fff;
   display: block;
@@ -10030,10 +10031,7 @@ a.default-btn {
 }
 
 /*-------- 8. Footer style  -----*/
-.copyright .footer-logo {
-  margin-bottom: 12px;
-  margin-top: 41px;
-}
+
 @media only screen and (max-width: 767px) {
   .copyright .footer-logo {
     margin-top: 0px;
@@ -10046,7 +10044,7 @@ a.default-btn {
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .copyright .footer-logo {
-    margin-top: 28px;
+    margin-top: 0px;
   }
 }
 .copyright p {

@@ -10,10 +10,10 @@ const footer = () => {
                             <div class="copyright mb-30">
                                 <div class="footer-logo">
 
-                                    <img alt="" src="assets/img/logo/logo.webp" />
+                                    <img alt="" src="assets/img/logo/logo.png" />
 
                                 </div>
-                                <p>© 2024 Jassa.<br /> All Rights Reserved</p>
+                                <p>© 2024 Hayder.<br /> All Rights Reserved</p>
                             </div>
                         </div>
                         <div class="col-lg-2 col-md-4 col-sm-4">
