@@ -58,10 +58,10 @@ const navbar = () => {
                                         <ul>
                                             <li class="single-shopping-cart">
                                                 <div class="shopping-cart-img">
-                                                    <img alt="" src="assets/img/cart/cart-1.webp" />
+                                                    <img alt="" src="assets/img/cart/cart-1" />
                                                 </div>
                                                 <div class="shopping-cart-title">
-                                                    <h4>T- Shart & Jeans </h4>
+                                                    <h4>Book 1</h4>
                                                     <h6>Qty: 02</h6>
                                                     <span>$260.00</span>
                                                 </div>
@@ -71,10 +71,10 @@ const navbar = () => {
                                             </li>
                                             <li class="single-shopping-cart">
                                                 <div class="shopping-cart-img">
-                                                    <img alt="" src="assets/img/cart/cart-2.webp" />
+                                                    <img alt="" src="assets/img/cart/cart-2" />
                                                 </div>
                                                 <div class="shopping-cart-title">
-                                                    <h4>T- Shart & Jeans </h4>
+                                                    <h4>BOOK 2</h4>
                                                     <h6>Qty: 02</h6>
                                                     <span>$260.00</span>
                                                 </div>

@@ -53,7 +53,7 @@ const home = () => {
                         <div class="col-lg-3 col-md-6 col-sm-6">
                             <div class="support-wrap mb-30 support-1">
                                 <div class="support-icon">
-                                    <img class="animated" src="assets/img/icon-img/support-1.webp" alt="" />
+                                    <img class="animated" src="assets/img/icon-img/support-1" alt="" />
                                 </div>
                                 <div class="support-content">
                                     <h5>Free Shipping</h5>
@@ -64,7 +64,7 @@ const home = () => {
                         <div class="col-lg-3 col-md-6 col-sm-6">
                             <div class="support-wrap mb-30 support-2">
                                 <div class="support-icon">
-                                    <img class="animated" src="assets/img/icon-img/support-2.webp" alt="" />
+                                    <img class="animated" src="assets/img/icon-img/support-2" alt="" />
                                 </div>
                                 <div class="support-content">
                                     <h5>Support 24/7</h5>
@@ -75,7 +75,7 @@ const home = () => {
                         <div class="col-lg-3 col-md-6 col-sm-6">
                             <div class="support-wrap mb-30 support-3">
                                 <div class="support-icon">
-                                    <img class="animated" src="assets/img/icon-img/support-3.webp" alt="" />
+                                    <img class="animated" src="assets/img/icon-img/support-3" alt="" />
                                 </div>
                                 <div class="support-content">
                                     <h5>Money Return</h5>
@@ -86,7 +86,7 @@ const home = () => {
                         <div class="col-lg-3 col-md-6 col-sm-6">
                             <div class="support-wrap mb-30 support-4">
                                 <div class="support-icon">
-                                    <img class="animated" src="assets/img/icon-img/support-4.webp" alt="" />
+                                    <img class="animated" src="assets/img/icon-img/support-4" alt="" />
                                 </div>
                                 <div class="support-content">
                                     <h5>Order Discount</h5>
@@ -120,8 +120,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-8.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-6.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-8" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-6" alt="" />
 
                                             <span class="pink">-10%</span>
                                             <div class="product-action">
@@ -156,8 +156,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-7.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-4-1.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-7" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-4-1" alt="" />
 
                                             <span class="purple">New</span>
                                             <div class="product-action">
@@ -191,8 +191,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-6.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-6-1.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-6" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-6-1" alt="" />
 
                                             <span class="pink">-10%</span>
                                             <div class="product-action">
@@ -227,8 +227,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-5.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-5-1.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-5" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-5-1" alt="" />
 
                                             <span class="purple">New</span>
                                             <div class="product-action">
@@ -262,8 +262,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-4.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-4-1.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-4" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-4-1" alt="" />
 
                                             <span class="pink">-10%</span>
                                             <div class="product-action">
@@ -298,8 +298,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-3.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-3-1.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-3" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-3-1" alt="" />
 
                                             <span class="purple">New</span>
                                             <div class="product-action">
@@ -333,8 +333,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-2.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-2-1.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-2" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-2-1" alt="" />
 
                                             <span class="pink">-10%</span>
                                             <div class="product-action">
@@ -369,8 +369,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-1.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-1-1.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-1" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-1-1" alt="" />
 
                                             <span class="purple">New</span>
                                             <div class="product-action">
@@ -408,8 +408,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-1.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-1-1.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-1" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-1-1" alt="" />
 
                                             <span class="pink">-10%</span>
                                             <div class="product-action">
@@ -444,8 +444,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-2.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-2-1.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-2" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-2-1" alt="" />
 
                                             <span class="purple">New</span>
                                             <div class="product-action">
@@ -479,8 +479,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-3.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-3-1.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-3" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-3-1" alt="" />
 
                                             <span class="pink">-10%</span>
                                             <div class="product-action">
@@ -515,8 +515,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-4.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-4-1.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-4" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-4-1" alt="" />
 
                                             <span class="purple">New</span>
                                             <div class="product-action">
@@ -550,8 +550,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-5.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-5-1.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-5" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-5-1" alt="" />
 
                                             <span class="pink">-10%</span>
                                             <div class="product-action">
@@ -586,8 +586,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-6.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-6-1.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-6" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-6-1" alt="" />
 
                                             <span class="purple">New</span>
                                             <div class="product-action">
@@ -621,8 +621,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-7.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-4-1.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-7" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-4-1" alt="" />
 
                                             <span class="pink">-10%</span>
                                             <div class="product-action">
@@ -657,8 +657,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-8.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-6.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-8" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-6" alt="" />
 
                                             <span class="purple">New</span>
                                             <div class="product-action">
@@ -696,8 +696,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-6.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-6-1.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-6" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-6-1" alt="" />
 
                                             <span class="pink">-10%</span>
                                             <div class="product-action">
@@ -732,8 +732,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-5.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-5-1.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-5" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-5-1" alt="" />
 
                                             <span class="purple">New</span>
                                             <div class="product-action">
@@ -767,8 +767,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-4.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-4-1.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-4" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-4-1" alt="" />
 
                                             <span class="pink">-10%</span>
                                             <div class="product-action">
@@ -803,8 +803,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-3.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-3-1.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-3" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-3-1" alt="" />
 
                                             <span class="purple">New</span>
                                             <div class="product-action">
@@ -838,8 +838,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-2.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-2-1.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-2" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-2-1" alt="" />
 
                                             <span class="pink">-10%</span>
                                         </div>
@@ -863,8 +863,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-1.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-1-1.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-1" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-1-1" alt="" />
 
                                             <span class="purple">New</span>
                                             <div class="product-action">
@@ -898,8 +898,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-8.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-6.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-8" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-6" alt="" />
 
                                             <span class="pink">-10%</span>
                                             <div class="product-action">
@@ -934,8 +934,8 @@ const home = () => {
                                     <div class="product-wrap mb-25">
                                         <div class="product-img">
 
-                                            <img class="default-img" src="assets/img/product/pro-7.webp" alt="" />
-                                            <img class="hover-img" src="assets/img/product/pro-4-1.webp" alt="" />
+                                            <img class="default-img" src="assets/img/product/pro-7" alt="" />
+                                            <img class="hover-img" src="assets/img/product/pro-4-1" alt="" />
 
                                             <span class="purple">New</span>
                                             <div class="product-action">
@@ -979,7 +979,7 @@ const home = () => {
                         <div class="col-lg-4 col-md-6 col-sm-6">
                             <div class="blog-wrap mb-30 scroll-zoom">
                                 <div class="blog-img">
-                                    <img src="assets/img/blog/blog-1.webp" alt="" />
+                                    <img src="assets/img/blog/blog-1" alt="" />
                                     <span class="purple">Lifestyle</span>
                                 </div>
                                 <div class="blog-content-wrap">
@@ -993,7 +993,7 @@ const home = () => {
                         <div class="col-lg-4 col-md-6 col-sm-6">
                             <div class="blog-wrap mb-30 scroll-zoom">
                                 <div class="blog-img">
-                                    <img src="assets/img/blog/blog-2.webp" alt="" />
+                                    <img src="assets/img/blog/blog-2" alt="" />
                                     <span class="pink">Lifestyle</span>
                                 </div>
                                 <div class="blog-content-wrap">
@@ -1007,7 +1007,7 @@ const home = () => {
                         <div class="col-lg-4 col-md-6 col-sm-6">
                             <div class="blog-wrap mb-30 scroll-zoom">
                                 <div class="blog-img">
-                                    <img src="assets/img/blog/blog-3.webp" alt="" />
+                                    <img src="assets/img/blog/blog-3" alt="" />
                                     <span class="purple">Lifestyle</span>
                                 </div>
                                 <div class="blog-content-wrap">
@@ -1035,25 +1035,25 @@ const home = () => {
                                 <div class="col-md-5 col-sm-12 col-xs-12">
                                     <div class="tab-content quickview-big-img">
                                         <div id="pro-1" class="tab-pane fade show active">
-                                            <img src="assets/img/product/quickview-l1.webp" alt="" />
+                                            <img src="assets/img/product/quickview-l1" alt="" />
                                         </div>
                                         <div id="pro-2" class="tab-pane fade">
-                                            <img src="assets/img/product/quickview-l2.webp" alt="" />
+                                            <img src="assets/img/product/quickview-l2" alt="" />
                                         </div>
                                         <div id="pro-3" class="tab-pane fade">
-                                            <img src="assets/img/product/quickview-l3.webp" alt="" />
+                                            <img src="assets/img/product/quickview-l3" alt="" />
                                         </div>
                                         <div id="pro-4" class="tab-pane fade">
-                                            <img src="assets/img/product/quickview-l2.webp" alt="" />
+                                            <img src="assets/img/product/quickview-l2" alt="" />
                                         </div>
                                     </div>
 
                                     <div class="quickview-wrap mt-15">
                                         <div class="quickview-slide-active owl-carousel nav nav-style-1" role="tablist">
-                                            <div class="active" data-bs-toggle="tab" href="#pro-1"><img src="assets/img/product/quickview-s1.webp" alt="" /></div>
-                                            <div data-bs-toggle="tab" href="#pro-2"><img src="assets/img/product/quickview-s2.webp" alt="" /></div>
-                                            <div data-bs-toggle="tab" href="#pro-3"><img src="assets/img/product/quickview-s3.webp" alt="" /></div>
-                                            <div data-bs-toggle="tab" href="#pro-4"><img src="assets/img/product/quickview-s2.webp" alt="" /></div>
+                                            <div class="active" data-bs-toggle="tab" href="#pro-1"><img src="assets/img/product/quickview-s1" alt="" /></div>
+                                            <div data-bs-toggle="tab" href="#pro-2"><img src="assets/img/product/quickview-s2" alt="" /></div>
+                                            <div data-bs-toggle="tab" href="#pro-3"><img src="assets/img/product/quickview-s3" alt="" /></div>
+                                            <div data-bs-toggle="tab" href="#pro-4"><img src="assets/img/product/quickview-s2" alt="" /></div>
                                         </div>
                                     </div>
                                 </div>
